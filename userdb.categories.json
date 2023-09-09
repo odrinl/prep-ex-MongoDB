@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921862"
+  },
+  "id": 2,
+  "CategoryName": "Cake"
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921863"
+  },
+  "id": 6,
+  "CategoryName": "Gluten-Free"
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921864"
+  },
+  "id": 1,
+  "CategoryName": "Japanese"
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921865"
+  },
+  "id": 4,
+  "CategoryName": "No-Bake"
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921866"
+  },
+  "id": 5,
+  "CategoryName": "Vegan"
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921867"
+  },
+  "id": 3,
+  "CategoryName": "Vegetarian"
+}]

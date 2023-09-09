@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921868"
+  },
+  "RecipeName": "Raw Vegan Sushi Rolls",
+  "Ingredients": [
+    {
+      "IngredientName": "Nori seaweed sheets",
+      "QuantityValue": 4,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Avocado",
+      "QuantityValue": 1,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Cucumber",
+      "QuantityValue": 1,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Carrot",
+      "QuantityValue": 5,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Rice",
+      "QuantityValue": 1,
+      "UnitName": "cup"
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Place a sheet of nori on a bamboo sushi mat"
+    },
+    {
+      "StepDescription": "Spread a layer of sliced avocado on the nori"
+    },
+    {
+      "StepDescription": "Add thin cucumber and carrot sticks"
+    },
+    {
+      "StepDescription": "Roll tightly using the sushi mat"
+    },
+    {
+      "StepDescription": "Slice into bite-sized pieces and serve with soy sauce"
+    }
+  ],
+  "Categories": [
+    1,
+    3,
+    4,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae862921869"
+  },
+  "RecipeName": "Raw Vegan Chocolate Tart",
+  "Ingredients": [
+    {
+      "IngredientName": "Avocado",
+      "QuantityValue": 2,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Almond meal",
+      "QuantityValue": 1,
+      "UnitName": "cup"
+    },
+    {
+      "IngredientName": "Medjool dates",
+      "QuantityValue": 10,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Cocoa powder",
+      "QuantityValue": 2,
+      "UnitName": "tablespoons"
+    },
+    {
+      "IngredientName": "Coconut oil",
+      "QuantityValue": 2,
+      "UnitName": "tablespoons"
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Combine almond meal, pitted dates, and cocoa powder in a food processor"
+    },
+    {
+      "StepDescription": "Add melted coconut oil and process until the mixture sticks together"
+    },
+    {
+      "StepDescription": "Press the mixture into a tart pan to form the crust"
+    },
+    {
+      "StepDescription": "Put in the refrigerator for a while"
+    },
+    {
+      "StepDescription": "For the filling, blend avocado, cocoa powder, and sweetener until smooth"
+    },
+    {
+      "StepDescription": "Spread the filling over the crust and refrigerate until set"
+    }
+  ],
+  "Categories": [
+    2,
+    3,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae86292186a"
+  },
+  "RecipeName": "Raw Zucchini Noodles with Pesto",
+  "Ingredients": [
+    {
+      "IngredientName": "Basil leaves",
+      "QuantityValue": 2,
+      "UnitName": "cups"
+    },
+    {
+      "IngredientName": "Pine nuts",
+      "QuantityValue": 0.25,
+      "UnitName": "cup"
+    },
+    {
+      "IngredientName": "Garlic cloves",
+      "QuantityValue": 2,
+      "UnitName": "(NULL)"
+    },
+    {
+      "IngredientName": "Zucchini",
+      "QuantityValue": 3,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Olive oil",
+      "QuantityValue": 0.25,
+      "UnitName": "cup"
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Spiralize zucchini into noodle-like strands"
+    },
+    {
+      "StepDescription": "Prepare a pesto sauce by blending basil, pine nuts, garlic, and olive oil"
+    },
+    {
+      "StepDescription": "Toss the zucchini noodles with the pesto sauce"
+    },
+    {
+      "StepDescription": "Put in the refrigerator for a while"
+    }
+  ],
+  "Categories": [
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae86292186b"
+  },
+  "RecipeName": "No-Bake Cheesecake",
+  "Ingredients": [
+    {
+      "IngredientName": "Condensed milk",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Cream Cheese",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Lemon Juice",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Pie Crust",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Cherry Jam",
+      "QuantityValue": null,
+      "UnitName": null
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Beat Cream Cheese"
+    },
+    {
+      "StepDescription": "Add condensed Milk and blend"
+    },
+    {
+      "StepDescription": "Add Lemon Juice and blend"
+    },
+    {
+      "StepDescription": "Add the mix to the pie crust"
+    },
+    {
+      "StepDescription": "Spread the Cherry Jam"
+    },
+    {
+      "StepDescription": "Place in refrigerator for 3h"
+    }
+  ],
+  "Categories": [
+    2,
+    3,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae86292186c"
+  },
+  "RecipeName": "Roasted Brussels Sprouts",
+  "Ingredients": [
+    {
+      "IngredientName": "Olive oil",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Lemon Juice",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Brussels Sprouts",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Sesame seeds",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Pepper",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Salt",
+      "QuantityValue": null,
+      "UnitName": null
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Preheat the oven"
+    },
+    {
+      "StepDescription": "Mix the ingredients in a bowl"
+    },
+    {
+      "StepDescription": "Spread the mix on baking sheet"
+    },
+    {
+      "StepDescription": "Bake for 30'"
+    }
+  ],
+  "Categories": [
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae86292186d"
+  },
+  "RecipeName": "Mac & Cheese",
+  "Ingredients": [
+    {
+      "IngredientName": "Pepper",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Salt",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Macaroni",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Butter",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Flour",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Shredded Cheddar cheese",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Milk",
+      "QuantityValue": null,
+      "UnitName": null
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Cook Macaroni for 8'"
+    },
+    {
+      "StepDescription": "Melt butter in a saucepan"
+    },
+    {
+      "StepDescription": "Add flour, salt, pepper and mix"
+    },
+    {
+      "StepDescription": "Add Milk and mix"
+    },
+    {
+      "StepDescription": "Cook until mix is smooth"
+    },
+    {
+      "StepDescription": "Add cheddar cheese"
+    },
+    {
+      "StepDescription": "Add the macaroni"
+    }
+  ],
+  "Categories": [
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "64fce1f71a778ae86292186e"
+  },
+  "RecipeName": "Tamagoyaki Japanese Omelette",
+  "Ingredients": [
+    {
+      "IngredientName": "Olive oil",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Salt",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Eggs",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Soy sauce",
+      "QuantityValue": null,
+      "UnitName": null
+    },
+    {
+      "IngredientName": "Sugar",
+      "QuantityValue": null,
+      "UnitName": null
+    }
+  ],
+  "Steps": [
+    {
+      "StepDescription": "Beat the eggs"
+    },
+    {
+      "StepDescription": "Add soya sauce, sugar and salt"
+    },
+    {
+      "StepDescription": "Add oil to a sauce pan"
+    },
+    {
+      "StepDescription": "Bring to medium heat"
+    },
+    {
+      "StepDescription": "Add some mix to the sauce pan"
+    },
+    {
+      "StepDescription": "Let is cook for 1'"
+    },
+    {
+      "StepDescription": "Add oil to a sauce pan"
+    },
+    {
+      "StepDescription": "Add some mix to the sauce pan"
+    },
+    {
+      "StepDescription": "Let is cook for 1'"
+    },
+    {
+      "StepDescription": "Remove pan from fire"
+    }
+  ],
+  "Categories": [
+    1,
+    3
+  ]
+}]
